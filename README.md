@@ -80,5 +80,5 @@ CloverPal is built using the amazing work from:
 And many other open-source libraries that make this project possible!
 
 ## ⭐ Support the Project
- 
+
 If you find CloverPal useful, please consider giving this repo a star ⭐ — it's free, takes just one second, and means a lot to an independent developer! Every star helps more people discover CloverPal and motivates continued development. Thank you for your support! 🍀
